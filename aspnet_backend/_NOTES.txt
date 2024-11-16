@@ -3,3 +3,19 @@
  - Maps
  - Lobbies
  - 
+
+
+new DB/game
+
+Game Info:
+ - Current map
+   - List of Sectors
+ - Players
+   - Faction
+   - Controlled Army
+ - Armies
+   - Name/ID
+   - Location
+   - TTA Link
+ - Current Orders
+ - Current Game Phase
