@@ -1,0 +1,13 @@
+﻿@aspnet_backend_HostAddress = https://localhost:7032
+
+POST {{aspnet_backend_HostAddress}}/players/
+Content-Type: application/json
+
+{
+  "name":"Viper",
+  "CurrFaction":"CIS"
+}
+
+###
+
+GET {{aspnet_backend_HostAddress}}/players/
